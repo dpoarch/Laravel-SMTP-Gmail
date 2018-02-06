@@ -9,4 +9,4 @@
 
     $ php artisan serve
 
-### http://localhost:8000/testMail?mail=[email of recepient]
+### Go to http://localhost:8000/testMail?mail=[recepient_email]
